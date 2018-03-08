@@ -1,2 +1,2 @@
 # smail
-client for sending emails
+client for sending emails to internal users
